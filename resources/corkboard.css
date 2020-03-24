@@ -84,10 +84,14 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+    body {
+        margin-top: 0;
+    }
     .page {
         width: 100%;
     }
-    body {
-        margin-top: 0;
+    #pinboard {
+        margin-left: 10px;
+        margin-right: 10px;
     }
 }
