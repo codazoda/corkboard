@@ -5,6 +5,11 @@ the contents with your favorite text editor. Just unzip the files and host.
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
+This first version, the MVP, contains only hyperlinks to other resources.
+Originally I wanted to design a Hacker News clone with user logins, submissions,
+and comments, but I wanted to get the base system out now to see if anyone finds
+it useful and it what ways.
+
 Corkboard's data is stored in JSON format, a text format that can be edited
 with a plain text editor.
 
@@ -24,11 +29,6 @@ with a plain text editor.
     }
 ]
 ```
-
-This first version, the MVP, contains only hyperlinks to other resources.
-Originally I wanted to design a Hacker News clone with user logins and editing,
-but I wanted to get the base system out now to see if anyone will use it an in
-what ways.
 
 It was designed during the Coronavirus (COVID-19) Pandemic of 2020 in response
 to people needing to communicate in various ways. In Utah we had an earthquake
