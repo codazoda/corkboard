@@ -5,7 +5,7 @@ the contents with your favorite text editor. Just unzip the files and host.
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
-[Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.com/corkboard) hosted on GitHub, directly from the repo.
+[Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.com/corkboard) hosted directly from the repo.
 
 This first version, the MVP, contains only hyperlinks to other resources.
 Originally I wanted to design a Hacker News clone with user logins, submissions,
