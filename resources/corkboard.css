@@ -82,3 +82,12 @@ body {
 .footer a {
     color: silver;
 }
+
+@media only screen and (max-width: 600px) {
+    .page {
+        width: 100%;
+    }
+    body {
+        margin-top: 0;
+    }
+}
