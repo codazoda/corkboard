@@ -5,7 +5,7 @@ the contents with your favorite text editor. Just unzip the files and host.
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
-There's a [Demo](https://codazoda.github.com/corkboard) hosted on GitHub,
+There's a [demo](https://codazoda.github.com/corkboard) hosted on GitHub,
 directly from this repo.
 
 This first version, the MVP, contains only hyperlinks to other resources.
