@@ -54,6 +54,10 @@ You can easily host Corkboard as a static site on GitHub.
 
 You can easily host Corkboard on a laptop by using PHP's built-in server.
 
+Note: The PHP server is single threaded and not tested for production so you
+should only use this for experimentation or in an emergency where no other
+option is available to you.
+
 * Find your IP address
 * Switch to the directory containing Corkboard
 * Run the PHP server `php -S {ip-address}:80`
