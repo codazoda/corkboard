@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Welcome",
+        "url": "example.com",
+        "date": "04-25-2020",
+        "user": "codazoda"
+    },
+    {
+        "title": "Example",
+        "url": "https://www.example.com",
+        "date": "04-25-2020",
+        "user": "codazoda"
+    }
+]

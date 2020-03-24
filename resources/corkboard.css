@@ -1,0 +1,84 @@
+* { 
+    box-sizing: border-box;
+}
+
+html {
+    background-color: white;
+}
+
+body { 
+    font-family: sans-serif; 
+    font-size: 12px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    display: block;
+    padding: 5px;
+    background-color: dodgerblue;
+}
+
+.header h1 {
+    font-size: 16px;
+    display: inline;
+    margin: 0;
+}
+
+.header p {
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu {
+    color: gray;
+    text-align: center;
+}
+
+.menu a {
+    color: gray;
+    text-decoration: none;
+}
+
+.title {
+    display: block;
+    padding: 5px;
+    margin-top: 10px;
+    color: black;
+}
+
+.title a {
+    color: black;
+    text-decoration: none;
+}
+
+.title a:visited {
+    color: gray;
+}
+
+.title a {
+    color: black;
+    text-decoration: none;
+}
+.meta {
+    padding: 5px;
+    color: gray;
+}
+
+.footer {
+    color: silver;
+    margin-top: 20px;
+    text-align: center;
+    border-top: 3px solid dodgerblue;
+}
+
+.footer a {
+    color: silver;
+}
