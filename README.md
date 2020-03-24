@@ -8,6 +8,23 @@ the contents with your favorite text editor. Just unzip the files and host.
 Corkboard's data is stored in JSON format, a text format that can be edited
 with a plain text editor.
 
+```
+[
+    {
+        "title": "Welcome",
+        "url": "example.com",
+        "date": "04-25-2020",
+        "user": "codazoda"
+    },
+    {
+        "title": "Example",
+        "url": "https://www.example.com",
+        "date": "04-25-2020",
+        "user": "codazoda"
+    }
+]
+```
+
 This first version, the MVP, contains only hyperlinks to other resources.
 Originally I wanted to design a Hacker News clone with user logins and editing,
 but I wanted to get the base system out now to see if anyone will use it an in
