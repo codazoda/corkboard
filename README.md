@@ -32,15 +32,15 @@ with a plain text editor.
 
 It was designed during the Coronavirus (COVID-19) Pandemic of 2020 in response
 to people needing to communicate in various ways. In Utah we had an earthquake
-during the pandemic which threatened basic infrastructure, such as power, water,
-and internet, which shaped some of my decisions.
+during the pandemic which threatened basic infrastructure such as power, water,
+and internet. That shaped some of my decisions.
 
 ## Goals
 
 * A static site that can be hosted anywhere from GitHub to a laptop
 * Maintainable with nothing but a text editor
 * Compact size for slow connections
-* Host without internet using just a WiFi router and any computer
+* Host without internet using just a WiFi router and any computer in a pinch
 * Installs itself or unzip and go
 
 ## Hosting on GitHub
