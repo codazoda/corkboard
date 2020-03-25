@@ -2,6 +2,12 @@
 
 Launch a simple informational site in minutes, on nearly any platform, and edit the contents with your favorite text editor. Just unzip the static files.
 
+* A static site that can be hosted anywhere from GitHub to a laptop
+* Maintainable with nothing but a text editor
+* Compact size for slow connections
+* Host without internet using just a WiFi router and any computer in a pinch
+* Installs itself or unzip and go
+
 ![Corkboard Screenshot](resources/corkboard.png)
 
 [Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.com/corkboard) hosted directly from the repo.
@@ -28,14 +34,6 @@ Corkboard's data is stored in JSON format, a text format that can be edited with
 ```
 
 It was designed during the Coronavirus (COVID-19) Pandemic of 2020 in response to people needing to communicate in various ways. In Utah we had an earthquake during the pandemic which threatened basic infrastructure such as power, water, and internet. That shaped some of my decisions.
-
-## Goals
-
-* A static site that can be hosted anywhere from GitHub to a laptop
-* Maintainable with nothing but a text editor
-* Compact size for slow connections
-* Host without internet using just a WiFi router and any computer in a pinch
-* Installs itself or unzip and go
 
 ## Hosting on GitHub
 
