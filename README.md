@@ -1,19 +1,14 @@
 # Corkboard
 
-Launch a simple informational site in minutes, on nearly any platform, and edit
-the contents with your favorite text editor. Just unzip the files and host.
+Launch a simple informational site in minutes, on nearly any platform, and edit the contents with your favorite text editor. Just unzip the static files.
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
 [Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.com/corkboard) hosted directly from the repo.
 
-This first version, the MVP, contains only hyperlinks to other resources.
-Originally I wanted to design a Hacker News clone with user logins, submissions,
-and comments, but I wanted to get the base system out now to see if anyone finds
-it useful and it what ways.
+This first version, the MVP, contains only hyperlinks to other resources. Originally I wanted to design a Hacker News clone with user logins, submissions, and comments, but I wanted to get the base system out now to see if anyone finds it useful and in what ways.
 
-Corkboard's data is stored in JSON format, a text format that can be edited
-with a plain text editor.
+Corkboard's data is stored in JSON format, a text format that can be edited with a plain text editor.
 
 ```
 [
@@ -32,10 +27,7 @@ with a plain text editor.
 ]
 ```
 
-It was designed during the Coronavirus (COVID-19) Pandemic of 2020 in response
-to people needing to communicate in various ways. In Utah we had an earthquake
-during the pandemic which threatened basic infrastructure such as power, water,
-and internet. That shaped some of my decisions.
+It was designed during the Coronavirus (COVID-19) Pandemic of 2020 in response to people needing to communicate in various ways. In Utah we had an earthquake during the pandemic which threatened basic infrastructure such as power, water, and internet. That shaped some of my decisions.
 
 ## Goals
 
