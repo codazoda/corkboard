@@ -6,7 +6,7 @@ Launch a simple informational site in minutes, on nearly any platform, and edit 
 * Maintainable with nothing but a text editor
 * Compact size for slow connections
 * Host without internet using just a WiFi router and any computer in a pinch
-* Installs itself or unzip and go
+* No installation necessary, just unzip and go
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
