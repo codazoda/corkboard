@@ -10,7 +10,7 @@ Launch a simple informational site in minutes, on nearly any platform, and edit 
 
 ![Corkboard Screenshot](resources/corkboard.png)
 
-[Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.com/corkboard) hosted directly from the repo.
+[Corkboard](https://github.com/codazoda/corkboard) is on GitHub and there's also a [demo](https://codazoda.github.io/corkboard) hosted directly from the repo.
 
 This first version, the MVP, contains only hyperlinks to other resources. Originally I wanted to design a Hacker News clone with user logins, submissions, and comments, but I wanted to get the base system out now to see if anyone finds it useful and in what ways.
 
